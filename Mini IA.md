@@ -14,7 +14,7 @@
 <img width="1005" alt="Screen Shot 2020-11-03 at 21 35 45" src="https://user-images.githubusercontent.com/60457723/97986108-92752380-1e1c-11eb-9ab4-1871509010e4.png">
 
 #### Truth Table 
-
+![CamScanner 11-06-2020 12 14](https://user-images.githubusercontent.com/60457723/98322154-1bad7580-202a-11eb-9b51-124f6a3b1df7.jpg)
 
 
 #### Testing Plan
