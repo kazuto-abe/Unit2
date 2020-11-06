@@ -10,8 +10,10 @@
 #### Criteria for success
 ## Criteria B: Design
 
-##### Illustrate how it looks like on Tinkercad
+#### Illustrate how it looks like on Tinkercad
 <img width="1005" alt="Screen Shot 2020-11-03 at 21 35 45" src="https://user-images.githubusercontent.com/60457723/97986108-92752380-1e1c-11eb-9ab4-1871509010e4.png">
+
+#### Truth Table 
 
 
 #### Testing Plan
