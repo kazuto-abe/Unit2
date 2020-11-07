@@ -19,7 +19,7 @@
 #### Boolean expression (equation) 
 ![CamScanner 11-06-2020 12 19](https://user-images.githubusercontent.com/60457723/98322380-9c6c7180-202a-11eb-8062-b0a84c30d9b1.jpg)
 
-###### The equations above are produced by online Kmap-generator
+##### *The equations above are produced by online Kmap-generator
 
 
 #### Testing Plan
