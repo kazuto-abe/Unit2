@@ -10,6 +10,9 @@
 #### Criteria for success
 ## Criteria B: Design
 
+### Record of Tasks
+
+
 #### Illustrate how it looks like on Tinkercad
 <img width="1005" alt="Screen Shot 2020-11-03 at 21 35 45" src="https://user-images.githubusercontent.com/60457723/97986108-92752380-1e1c-11eb-9ab4-1871509010e4.png">
 
@@ -28,10 +31,68 @@ The image bellow indicates how boolean expressions for each LEDs represent....
 ![CamScanner 11-06-2020 12 19](https://user-images.githubusercontent.com/60457723/98322380-9c6c7180-202a-11eb-8062-b0a84c30d9b1.jpg)
 
 
-
-
 #### Testing Plan
-#### Record of Tasks
 ## Criteria C: Development
+
+```.c++
+//inidicates each ports for LEDs
+int led1 = 2;
+int led2 = 3;
+int led3 = 4;
+int led4 = 5;
+int led5 = 6;
+int led6 = 7;
+int led7 = 8;
+//indicates each ports for BUTTONS
+int port_btnA = 12;
+int port_btnB = 11;
+int port_btnC = 10;
+int port_btnD = 9;
+//define each valuables for BUTTONS
+int val_btn1 = 0;
+int val_btn2 = 0;
+int val_btn3 = 0;
+int val_btn4 = 0;
+
+
+//setup function, outputs and their ports have to be defined inside of the brackets.
+// in this case, buttons are input source so this doesnt include them.
+void setup()
+{
+  pinMode(2, OUTPUT);
+  pinMode(3, OUTPUT);
+  pinMode(4, OUTPUT);
+  pinMode(5, OUTPUT);
+  pinMode(6, OUTPUT);
+  pinMode(7, OUTPUT);
+  pinMode(8, OUTPUT);
+
+}
+
+//loop function, the program inside loops back everytime when input sources are detected.
+void loop()
+{
+  val_btn1 = digitalRead(port_btnA);
+  val_btn2 = digitalRead(port_btnB);
+  val_btn3 = digitalRead(port_btnC);
+  val_btn4 = digitalRead(port_btnD);
+  //each equations for LEDs are applied here 
+  int led1_eq = (!val_btn2 && !val_btn3)||(!val_btn1 && val_btn3 && val_btn4) || (!val_btn1 && !val_btn3 && !val_btn4) ;
+  digitalWrite(led1, led1_eq);
+  int led2_eq = (!val_btn1 && !val_btn2) || (!val_btn1 && val_btn4) || (!val_btn1 && val_btn3) || (!val_btn2 && !val_btn3 && val_btn4);
+  digitalWrite(led2, led2_eq);
+  int led3_eq = (!val_btn1 && val_btn3 && val_btn4) || (!val_btn1 && !val_btn2 && val_btn4) || (!val_btn1 && !val_btn2 && val_btn3) || (!val_btn1 && val_btn2 && !val_btn3 && !val_btn4) || (val_btn1 && !val_btn2 && !val_btn3 && !val_btn4);
+  digitalWrite(led3, led3_eq);
+  int led4_eq = (!val_btn1 && !val_btn3) || (!val_btn1 && !val_btn4) || (!val_btn2 && !val_btn3);
+  digitalWrite(led4, led4_eq);
+  int led5_eq = (!val_btn1 && val_btn2 && val_btn4) || (val_btn1 && !val_btn2 && !val_btn3 && val_btn4);
+  digitalWrite(led5, led5_eq);
+  int led6_eq = (!val_btn1 && val_btn2) || (!val_btn1 && val_btn3) || (!val_btn1 && !val_btn4) || (val_btn1 && !val_btn2 && !val_btn3);
+  digitalWrite(led6, led6_eq);
+  int led7_eq = (val_btn1 && !val_btn2 && !val_btn3) || (!val_btn1 && val_btn2 && val_btn3 && !val_btn4);
+  digitalWrite(led7, led7_eq);
+}
+```
+
 ## Criteria D: Functionality
 ## Criteria E: Evaluation
