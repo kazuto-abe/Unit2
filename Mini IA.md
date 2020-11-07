@@ -19,7 +19,12 @@
 #### Boolean expression (equation) 
 Equations are produced by online k-map generator below.
 
+![Compsci_miniIA_kmap 001](https://user-images.githubusercontent.com/60457723/98428946-32fe6880-20e7-11eb-9cad-df588ccbf6b1.jpeg)
+![Compsci_miniIA_kmap 002](https://user-images.githubusercontent.com/60457723/98428949-37c31c80-20e7-11eb-9781-cde98b3639eb.jpeg)
+![Compsci_miniIA_kmap 003](https://user-images.githubusercontent.com/60457723/98428951-3a257680-20e7-11eb-9a84-4504d9f0a1d9.jpeg)
+![Compsci_miniIA_kmap 004](https://user-images.githubusercontent.com/60457723/98428954-3bef3a00-20e7-11eb-9e6c-8dcaf26cb3d2.jpeg)
 
+The image bellow indicates how boolean expressions for each LEDs represent....
 ![CamScanner 11-06-2020 12 19](https://user-images.githubusercontent.com/60457723/98322380-9c6c7180-202a-11eb-8062-b0a84c30d9b1.jpg)
 
 
