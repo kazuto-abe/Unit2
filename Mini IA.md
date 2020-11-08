@@ -11,21 +11,17 @@
 ## Criteria B: Design
 
 ### Record of Tasks
-| Task No |                                                    Planned Action                                                    |         Planned  Outcome         | Time Estimated | Target Completion Date  | Criterion |
-|:-------:|:--------------------------------------------------------------------------------------------------------------------:|:--------------------------------:|:--------------:|:-----------------------:|:---------:|
-|    1    |                               Planning: Discuss what the problem is and its solutions.                               |  Write a context of the problem  |      30min     |                         |     A     |
-|    2    |                               Planning: Create rough sketches of an idea from scratch.                               | Visualize what the brief idea is |      30min     |                         |     A     |
-|    3    |                                     Design: Create a online circuit on TinkerCad.                                    |                                  |       2h       |                         |     B     |
-|    4    |               Design: Create a system diagram shows how Arduino works and the flowchart of the program.              |                                  |     1h30min    |                         |     B     |
-|    5    |                                      Design: Create a truth table for the LEDs.                                      |                                  |      30min     |                         |     B     |
-|    6    |                  Design: Create K-maps for each LEDs and figure out what the boolean equations are.                  |  7K-map and 7 boolean equations  |       2h       |                         |     B     |
-|    7    | Development: Complete entire program and make sure that the program works properly using TinkerCad online simulator. |                                  |       3h       |                         |     C     |
-|    8    |                                    Development: Build an actual Arduino platform                                     |                                  |       2h       |                         |     C     |
-|    9    |                                                                                                                      |                                  |                |                         |           |
-|         |                                                                                                                      |                                  |                |                         |           |
-|         |                                                                                                                      |                                  |                |                         |           |
-|         |                                                                                                                      |                                  |                |                         |           |
-
+| Task No |                                                    Planned Action                                                    |                                           Planned  Outcome                                           | Time Estimated | Target Completion Date  | Criterion |
+|:-------:|:--------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:--------------:|:-----------------------:|:---------:|
+|    1    |                               Planning: Discuss what the problem is and its solutions.                               |                                    Write a context of the problem                                    |       1h       |        2020/11/3        |     A     |
+|    2    |                               Planning: Create rough sketches of an idea from scratch.                               |                             Visualize what the brief idea is on the paper                            |       1h       |        2020/11/3        |     A     |
+|    3    |                                     Design: Create a online circuit on TinkerCad.                                    |                                  Connects all the wires on TinkerCad                                 |       2h       |        2020/11/5        |     B     |
+|    4    |               Design: Create a system diagram shows how Arduino works and the flowchart of the program.              | 1 system diagram and 1 flowchart as an example of the entire code.(there are 9 flowcharts in total)  |     1h30min    |        2020/11/6        |     B     |
+|    5    |                                      Design: Create a truth table for the LEDs.                                      |                                                                                                      |       1h       |        2020/11/6        |     B     |
+|    6    |                  Design: Create K-maps for each LEDs and figure out what the boolean equations are.                  |                                    7 K-map and 7 boolean equations                                   |       2h       |        2020/11/6        |     B     |
+|    7    | Development: Complete entire program and make sure that the program works properly using TinkerCad online simulator. |                                                                                                      |     2h30min    |        2020/11/8        |     C     |
+|    8    |                                    Development: Build an actual Arduino platform                                     |                        Connects all stuff to Arduino (LEDs are on cardboard)                         |       3h       |        2020/11/10       |     C     |
+|    9    |                                                                                                                      |                                 
 #### Illustrate how it looks like on Tinkercad
 <img width="1005" alt="Screen Shot 2020-11-03 at 21 35 45" src="https://user-images.githubusercontent.com/60457723/97986108-92752380-1e1c-11eb-9ab4-1871509010e4.png">
 
