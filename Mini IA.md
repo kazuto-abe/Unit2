@@ -22,6 +22,10 @@
 |    7    | Development: Complete entire program and make sure that the program works properly using TinkerCad online simulator. |                                                                                                      |     2h30min    |        2020/11/8        |     C     |
 |    8    |                                    Development: Build an actual Arduino platform                                     |                        Connects all stuff to Arduino (LEDs are on cardboard)                         |       3h       |        2020/11/10       |     C     |
 |    9    |                                                                                                                      |                                 
+
+### System Diagram
+![Compsci_miniIA_systemdiagram 001](https://user-images.githubusercontent.com/60457723/98455432-e0d74900-21b3-11eb-8ea6-33ddaf349386.jpeg)
+
 #### Illustrate how it looks like on Tinkercad
 <img width="1005" alt="Screen Shot 2020-11-03 at 21 35 45" src="https://user-images.githubusercontent.com/60457723/97986108-92752380-1e1c-11eb-9ab4-1871509010e4.png">
 
@@ -39,6 +43,7 @@ Equations are produced by online k-map generator below.
 The image bellow indicates how boolean expressions for each LEDs represent....
 ![CamScanner 11-06-2020 12 19](https://user-images.githubusercontent.com/60457723/98322380-9c6c7180-202a-11eb-8062-b0a84c30d9b1.jpg)
 
+### Flow chart
 
 #### Testing Plan
 ## Criteria C: Development
