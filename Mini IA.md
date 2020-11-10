@@ -113,6 +113,7 @@ void loop()
   digitalWrite(led7, led7_eq);
 }
 ```
+![compsci_prototype](https://user-images.githubusercontent.com/60457723/98666019-c5c13080-238f-11eb-8add-1bc7f2ac734c.jpg)
 
 ## Criteria D: Functionality
 ## Criteria E: Evaluation
