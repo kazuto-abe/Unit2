@@ -8,6 +8,12 @@
 ![CamScanner 11-03-2020 18 21](https://user-images.githubusercontent.com/60457723/97968515-17067880-1e02-11eb-9c2f-cd563cd81271.png)
 
 #### Criteria for success
+1. 
+2. There are no bugs in the code.
+3.
+4.
+
+
 ## Criteria B: Design
 
 ### Record of Tasks
