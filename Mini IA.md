@@ -9,7 +9,8 @@
 
 
 #### A sketch of the whole idea
-![CamScanner 11-03-2020 18 21](https://user-images.githubusercontent.com/60457723/97968515-17067880-1e02-11eb-9c2f-cd563cd81271.png)
+![seven](https://user-images.githubusercontent.com/60457723/98828206-24170d80-247b-11eb-9fc8-965dcb34a729.jpg)
+
 
 #### Criteria for success
 1. Provides correct outputs to show every numbers using 7 LEDs. (This leads to the usablity)
