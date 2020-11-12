@@ -67,6 +67,10 @@ The list of the all equations:
 ![CamScanner 11-06-2020 12 19](https://user-images.githubusercontent.com/60457723/98322380-9c6c7180-202a-11eb-8062-b0a84c30d9b1.jpg)
 
 ### Flow chart
+This is an example process of the entire program, the flow chart below represents for the number 1.
+
+![IMG_6377](https://user-images.githubusercontent.com/60457723/98966778-087d3700-254f-11eb-8153-b875a910103d.jpg)
+
 
 #### Testing Plan
 ## Criteria C: Development
