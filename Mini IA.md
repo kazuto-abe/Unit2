@@ -15,10 +15,10 @@ To express all numbers, each shapes follows a pattern, and (triangle, paralellog
 
 
 #### Criteria for success
-1. Provides correct outputs to show every numbers using 7 LEDs. (This leads to the usablity)
-2. There are no bugs in the code.
-3. Decent speed of responces to avoid letting user be frustrated. 
-4. Brightness of the LED is precisely adjusted to inidicate outputs properly.
+1. The display should count from 0-9 properly.
+2. A table showing each number 0-9 and the corresponding LEDs is included.
+3. A table showing the operation of the buttons and number 0-9 is included.
+4. The display uses maximum 7 LEDs and 4 buttons.
 
 
 ## Criteria B: Design
