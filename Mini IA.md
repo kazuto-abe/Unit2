@@ -25,7 +25,6 @@ To express all numbers, each shapes follows a pattern, and (triangle, paralellog
 
 ### Record of Tasks
 The procedure of the project follows the task plan below:
-
 | Task No |                                                    Planned Action                                                    |                                           Planned  Outcome                                           | Time Estimated | Target Completion Date  | Criterion |
 |:-------:|:--------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:--------------:|:-----------------------:|:---------:|
 |    1    |                               Planning: Discuss what the problem is and its solutions.                               |                                    Write a context of the problem                                    |       1h       |        2020/11/3        |     A     |
@@ -36,7 +35,7 @@ The procedure of the project follows the task plan below:
 |    6    |                  Design: Create K-maps for each LEDs and figure out what the boolean equations are.                  |                                    7 K-map and 7 boolean equations                                   |       2h       |        2020/11/6        |     B     |
 |    7    | Development: Complete entire program and make sure that the program works properly using TinkerCad online simulator. |                                                                                                      |     2h30min    |        2020/11/8        |     C     |
 |    8    |                                    Development: Build an actual Arduino platform                                     |                        Connects all stuff to Arduino (LEDs are on cardboard)                         |       3h       |        2020/11/10       |     C     |
-|    9    |                                                                                                                      |                                 
+|    9    |                                   Functionality: Create a short video how it works                                   |                          1 gif animation to show that the program works well                         |      40min     |        2020/11/12       |     D     |
 
 ### System Diagram
 ![Compsci_miniIA_systemdiagram 001](https://user-images.githubusercontent.com/60457723/98455432-e0d74900-21b3-11eb-8ea6-33ddaf349386.jpeg)
