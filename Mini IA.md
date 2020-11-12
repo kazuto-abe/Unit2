@@ -5,10 +5,12 @@
 
 
 #### Justification of the solution
-
+In order to solve the problem above, 
 
 
 #### A sketch of the whole idea
+Whaat my idea of how the numbers (0 ~ 9) are represented using 7 LEDs is "pylamid counting system" as the rough sketch shows below.
+To express all numbers, each shapes follows a pattern, and (triangle, paralellogram, rectangle, etc...) are all defined as the number so that we are all allowed to recognize various numbers instantly.
 ![seven](https://user-images.githubusercontent.com/60457723/98828206-24170d80-247b-11eb-9fc8-965dcb34a729.jpg)
 
 
