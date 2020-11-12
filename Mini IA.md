@@ -138,4 +138,9 @@ Afterwards, I've eventually created actual arduino platform using cardboard (the
 Arduino conncects to the laptop through usb cable in order to run the program (Arduino IDE) inside as well as power supply.
 
 ## Criteria D: Functionality
+This is a video how my program works, and disply the numbers (0-9)
+
+![Videotogif](https://user-images.githubusercontent.com/60457723/98890880-4db65000-24e0-11eb-9b6d-068c770fde10.gif)
+
+
 ## Criteria E: Evaluation
