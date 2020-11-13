@@ -71,6 +71,13 @@ This is an example process of the entire program, the flow chart below represent
 
 
 #### Testing Plan
+|                                 Criteria No.                                 |                                                      Expected Outcome                                                     | Criteria met? |
+|:----------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|:-------------:|
+| Follow the table with number/LED's  equivalence to check each number 0 to 9. |         For example, If you press the button's combination for number 1,  the display shows pattern for number 1.         |               |
+|          A table is provided with LED sequences for each number 0-9.         |                              Reading the patterns of LEDs for each number 0-9 is symbolised.                              |               |
+|            Each shape that represent the number follows a pattern.           | Every single shape such as triangle, parallelogram, rectangle, etc... represent the number.(0-9) So it is easy to follow. |               |
+|                    7 LEDs and 4 buttons are all installed.                   |                    You can see no more than 7LEDs(maximum number of lights) and 4 buttons are attached.                   |               |
+
 ## Criteria C: Development
 
 ```.c++
