@@ -5,7 +5,7 @@
 
 
 #### Justification of the solution
-In order to solve the problem above, 
+
 
 
 #### A sketch of the whole idea
