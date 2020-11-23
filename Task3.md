@@ -52,3 +52,28 @@ Phased implementation: This idea would be the most successful type of transition
 - Sign up / log in issue may occer. (Users have no clue what the personal password is if the transition is not that smooth)
 
 
+
+
+
+
+### [HL]
+📔A book shop has a computer at each point of sale, and also a central computer. When a customer buys a book in the book shop, the salesperson at the point of sale uses a scanning device to input a barcode from the book. The barcode is sent to the central computer where the barcode of each book and the corresponding price are held in a database on a disk. When the price is found, it is sent to the point of sale computer where all necessary calculations are performed, details of the transaction are stored on a local disk and a receipt is printed out.
+
+#### (a) Construct a system flow chart for the system described above. <br>
+
+
+At the point of sale there are peripheral devices other than the scanning device and printer.
+#### (b) Define peripheral devices <br>
+
+#### (c) Outline the purpose of one other possible peripheral device in this scenario.<br>
+
+
+The customers can also buy books online. A customer can select a book, and then enter their name, address and credit card number. This data is stored on the book shop’s central computer in a database of customer orders.
+#### (d) Identify two sources of risk to personal data in this online system. 
+<br>
+
+#### (e) State two measures that the book shop can take to address the risks identified in part (d) <br>
+
+
+#### (f) Outline the consequences to the customer if their data is not adequately protected. [2]
+<br>
