@@ -34,6 +34,7 @@ The display uses maximum 1 LED, 1 LCD and 2 buttons.
 ### System Diagram
 
 ### Tinker Cad
+<img width="1217" alt="Screen Shot 2020-12-18 at 16 44 50" src="https://user-images.githubusercontent.com/60457723/102588375-b1234580-4150-11eb-8473-04623dab7774.png">
 
 
 ## Criteria C: Development
@@ -244,5 +245,10 @@ void En2Morse(){
 
 ```
 
+## Criteria D: Functionality
+
+![moon project](https://user-images.githubusercontent.com/60457723/102588441-cbf5ba00-4150-11eb-8bf1-18653708faee.jpg)
+
+## Criteria E: Evaluation
 
 
