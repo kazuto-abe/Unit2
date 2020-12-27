@@ -37,6 +37,12 @@ S-Scheduling- Can the project be done in time? ... We are given 3 weeks to compl
 
 ![Arduino_moon_system diagram  001](https://user-images.githubusercontent.com/60457723/103166503-f25cd900-4865-11eb-812c-b29b08023c25.jpeg)
 
+Input: Users are able to enter the alphabet using two buttons (A and B) installed on the breadboard, and the LCD displays whats input afterwards.
+One is to change the characters, one is to select the options (it includes "send" and "delete")
+
+Output: Morse code, the detailed system of dots and dashes used to represent the alphabets, is transferred to the LED so that we can instantly know what the messages are. 
+
+
 
 ### Tinker Cad
 <img width="1217" alt="Screen Shot 2020-12-18 at 16 44 50" src="https://user-images.githubusercontent.com/60457723/102588375-b1234580-4150-11eb-8473-04623dab7774.png">
