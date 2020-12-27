@@ -16,11 +16,11 @@ We will create a program dsiplayed on 1 LED and 1 LCD which gets inputs by press
 [1] Ramasubramanian, Sowmya. “C++ Is Now the Fastest-Growing Programming Language, Report Says.” The Hindu, The Hindu, 11 Sept. 2020, www.thehindu.com/sci-tech/technology/c-is-now-the-fastest-growing-programming-language/article32580426.ece.
 
 T.E.L.O.S. Study:<br>
-T-Technical-Is the project technically possible? We dispose of a computer, Arduino, TinkerCat simulator, Arduino IDE for C++ code and circuits components. All technical necessities for this project are satisfied.<br>
-E-Economic- Can the project be afforded? Will it increase profit? This project is developed for free by UWC ISAK Japan students. Thanks to the funding provided to our school, we can afford all of the components necessary for the project. We also have a budget of 1 trillion moons according to our client.<br>
-L-Legal- Is the project legal? The project is completely legal as the 1947 Japanese constitution does not criminalize small digital projects like ours.<br>
-O-Operational- How will the current operations support the change? The project will operate on computers and Arduino. The process does not have any errors and is perfectly operational.<br>
-S-Scheduling- Can the project be done in time? We are given 3 weeks to complete this project and the tasks have been regularly distributed to assure that it is completed by Friday, December 18th, 2020.
+T-Technical-Is the project technically possible? ... We dispose of a computer, Arduino, TinkerCat simulator, Arduino IDE for C++ code and circuits components. All technical necessities for this project are satisfied.<br>
+E-Economic- Can the project be afforded? Will it increase profit? ... This project is developed for free by UWC ISAK Japan students. Thanks to the funding provided to our school, we can afford all of the components necessary for the project. We also have a budget of 1 trillion moons according to our client.<br>
+L-Legal- Is the project legal? ... The project is completely legal as the 1947 Japanese constitution does not criminalize small digital projects like ours.<br>
+O-Operational- How will the current operations support the change? ... The project will operate on computers and Arduino. The process does not have any errors and is perfectly operational.<br>
+S-Scheduling- Can the project be done in time? ... We are given 3 weeks to complete this project and the tasks have been regularly distributed to assure that it is completed by Friday, December 18th, 2020.
 
 
 ### Sucess Criteria
