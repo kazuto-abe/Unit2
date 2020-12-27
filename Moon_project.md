@@ -42,6 +42,8 @@ One is to change the characters, one is to select the options (it includes "send
 
 Output: Morse code, the detailed system of dots and dashes used to represent the alphabets, is transferred to the LED so that we can instantly know what the messages are. 
 
+![international morse code](https://user-images.githubusercontent.com/60457723/103167080-677edd00-486b-11eb-8745-b39f15ff4b5c.png)
+
 
 
 ### Tinker Cad
