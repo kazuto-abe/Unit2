@@ -35,6 +35,7 @@ S-Scheduling- Can the project be done in time? We are given 3 weeks to complete 
 
 ### System Diagram
 
+![Arduino_moon_system diagram  001](https://user-images.githubusercontent.com/60457723/103166503-f25cd900-4865-11eb-812c-b29b08023c25.jpeg)
 
 
 ### Tinker Cad
