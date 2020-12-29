@@ -5,7 +5,7 @@ Solve them again, program them, draw flow diagram, test them. Add it to your rep
 ## Quiz 1
 Given 2 numbers, A and B, Output TRUE if one if them is 10 or if their sum is 10.
 
-Examples
+Examples <br>
 Makes10(9, 10) → TRUE <br>
 Makes10(9, 9) → FALSE <br>
 Makes10(1, 9) → TRUE <br>
@@ -20,7 +20,7 @@ Makes10(1, 9) → TRUE <br>
 ## Quiz 2
 Given three int values, A, B, and C, output the largest.
 
-Examples
+Examples <br>
 IntMax(1, 2, 3) → 3 <br>
 IntMax(1, 3, 2) → 3 <br>
 IntMax(3, 2, 1) → 3 <br>
@@ -37,7 +37,7 @@ Given an integer N, print all the integers from 0 to N.
 
 [HL] show also the addition of the numbers.
 
-Example
+Example<br>
 rangeN(6)   → 0, 1, 2, 3, 4, 5, 6 <br>
 				    → 21 <br>
 
@@ -53,7 +53,7 @@ Given an integer N, show all its factors.
 
 [HL] show also the addition of the factors show if the result is the same as N
 
-Example
+Example <br>
 perfectN(6)   → 1, 2, 3 <br>
 				      → “Sum of factors is:” 6, True <br>
               
@@ -70,12 +70,12 @@ perfectN(6)   → 1, 2, 3 <br>
 ## Quiz 5
 Given an integer N, show the multiplication table. 
 
-Example
+Example <br>
 tableM(2)   → 2x1=2 <br>
-					    2x2=4 <br>
-					    2x3=6 <br>
+		2x2=4 <br>
+		2x3=6 <br>
 
-					    2x9=18 <br>
+		2x9=18 <br>
           
 #### Pseudocode & Flowchart
 ![IMG_6898](https://user-images.githubusercontent.com/60457723/103271211-f3743e80-49fc-11eb-84d6-e55d2bf3353b.jpeg)
@@ -87,7 +87,7 @@ tableM(2)   → 2x1=2 <br>
 ## Quiz 6
 Output TRUE if the given string begins with 'mix', except the 'm' can be anything, so 'pix', '9ix'..all count.
 
-Examples
+Examples <br>
 MixStart('mix snacks') → TRUE <br>
 MixStart('pix snacks') → TRUE <br>
 MixStart('piz snacks') → FALSE <br>
