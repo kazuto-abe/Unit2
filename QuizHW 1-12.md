@@ -74,8 +74,7 @@ Example <br>
 tableM(2)   → 2x1=2 <br>
 		2x2=4 <br>
 		2x3=6 <br>
-
-		2x9=18 <br>
+		2×9=18 
           
 #### Pseudocode & Flowchart
 ![IMG_6898](https://user-images.githubusercontent.com/60457723/103271211-f3743e80-49fc-11eb-84d6-e55d2bf3353b.jpeg)
