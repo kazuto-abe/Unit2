@@ -113,7 +113,25 @@ perfectN(6)   → 1, 2, 3 <br>
 
 #### Python Code
 
+```.py
+def perfectN():
+    N = int(input("Please enter an integer N: "))
+    sum_factors = 0
+    for i in range(1, N-1):
+        if N % i == 0:
+            print(i)
+            sum_factors += i
+    
+    if sum_factors == N :
+        print("Sum of the factors is: {}, True".format(sum_factors))
+    else:
+        print("Sum of the factors is: {}, False".format(sum_factors))
+        
+perfectN()
+```
 #### Test result
+
+
 
 ## Quiz 5
 Given an integer N, show the multiplication table. 
