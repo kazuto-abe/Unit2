@@ -249,6 +249,7 @@ maxAbs(arrayx = [-100, 0, 3,-200])
 
 #### Test result
 
+<img width="677" alt="Screen Shot 2020-12-30 at 22 51 39" src="https://user-images.githubusercontent.com/60457723/103355455-a3c36f00-4af1-11eb-91ef-e3c2ca5ee0c8.png">
 
 ## Quiz 9
 Given an array of sorted integers, find the missing number.
