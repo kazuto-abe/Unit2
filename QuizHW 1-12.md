@@ -188,6 +188,8 @@ MixStart()
 
 #### Test result
 
+<img width="683" alt="Screen Shot 2020-12-30 at 17 25 39" src="https://user-images.githubusercontent.com/60457723/103339187-13bb0080-4ac4-11eb-986f-473618c03db1.png">
+
 ## Quiz 7
 
 ## Quiz 8
