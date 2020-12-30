@@ -131,7 +131,7 @@ perfectN()
 ```
 #### Test result
 
-
+<img width="677" alt="Screen Shot 2020-12-30 at 17 13 46" src="https://user-images.githubusercontent.com/60457723/103338665-74493e00-4ac2-11eb-9cbf-48f9ec4a5a59.png">
 
 ## Quiz 5
 Given an integer N, show the multiplication table. 
