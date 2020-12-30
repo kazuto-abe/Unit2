@@ -43,6 +43,23 @@ IntMax(3, 2, 1) → 3 <br>
 
 #### Python Code
 
+```.py
+def IntMax():
+    A = int(input("Please enter an integer A: "))
+    B = int(input("Please enter an integer B: "))
+    C = int(input("Please enter an integer C: "))
+    max_int = 0
+    if A >= B and A >= C :
+        max_int += A
+    if B >= A and B >= C :
+        max_int += B
+    if C >= B and C >= A :
+        max_int += C
+    print(max_int)
+
+IntMax()
+```
+
 #### Test result
 
 ## Quiz 3
