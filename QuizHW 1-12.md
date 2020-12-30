@@ -147,6 +147,17 @@ tableM(2)   → 2x1=2 <br>
 
 #### Python Code
 
+```.py
+def tableM():
+    N = int(input("please enter an integer N: "))
+    multipul_num = 0
+    for i in range(1,10):
+        multipul_num = i * N
+        print("{} × {} = {}".format(N,i,multipul_num))
+    
+tableM()
+```
+
 #### Test result
 
 ## Quiz 6
