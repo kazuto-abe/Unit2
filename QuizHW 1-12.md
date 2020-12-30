@@ -217,6 +217,8 @@ letters()
 
 #### Test result
 
+<img width="677" alt="Screen Shot 2020-12-30 at 21 58 10" src="https://user-images.githubusercontent.com/60457723/103352660-25170380-4aea-11eb-9fa0-b7008f577439.png">
+
 ## Quiz 8
 Given an array of integers, find the largest absolute value.  Tip: you can use the abs() function.
  
