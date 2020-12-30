@@ -175,6 +175,17 @@ MixStart('piz snacks') → FALSE <br>
 
 #### Python Code
 
+```.py
+def MixStart():
+    string_x = input("please enter a string: ")
+    if string_x[1] == "i" and string_x[2] == "x" :
+        print(True)
+    else:
+        print(False)
+
+MixStart()
+```
+
 #### Test result
 
 ## Quiz 7
