@@ -300,7 +300,18 @@ BigNeighbour([73, 74, 174, 76, 78, 79]) → 100 <br>
 #### Python Code
 
 ```.py
+def BigNeighbour(arrayx):
+    largestgap = 0
+    length = len(arrayx)
+    for i in range(0, length - 1):
+        gap = abs(arrayx[i] - arrayx[i+1])
+        if gap > largestgap:
+            largestgap = gap
+    print("the largest difference between neighboring nums is ... {}".format(largestgap))
 
+BigNeighbour(arrayx = [1,2,3,4,5,7])
+BigNeighbour(arrayx = [0, 5, 6, 10])
+BigNeighbour(arrayx = [73, 74, 174, 76, 78, 7])
 ```
 
 #### Test result
