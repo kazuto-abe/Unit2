@@ -265,7 +265,15 @@ missingNumber([73, 74, 75, 76, 78, 79]) → 77  <br>
 #### Python Code
 
 ```.py
+def missingNumber(arrayx):
+    length = len(arrayx)
+    for i in range(0, length - 1):
+        if arrayx[i] != arrayx[i+1] - 1:
+            print("You are missing ... {}". format(arrayx[i] + 1))
 
+missingNumber(arrayx = [1,2,3,5,6,7,8,9])
+missingNumber(arrayx = [4,5,6,8,9,10])
+missingNumber(arrayx = [73,74,75,76,78,79])
 ```
 
 #### Test result
