@@ -206,7 +206,13 @@ letters('hello') → 0 -> h <br>
 #### Python Code
 
 ```.py
-
+def letters():
+    string_x = input("please enter a string: ")
+    length = len(string_x)
+    for i in range(length):
+        print(i, " →  " ,string_x[i])
+        
+letters()
 ```
 
 #### Test result
