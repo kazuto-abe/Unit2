@@ -80,6 +80,18 @@ rangeN(6)   → 0, 1, 2, 3, 4, 5, 6 <br>
 
 #### Python Code
 
+```.py
+def rangeN ():
+    N = int(input("please enter an integer N: "))
+    sum_num = 0
+    for i in range(0, N + 1):
+        print(i)
+        sum_num += i
+    print(sum_num)
+    
+rangeN()   
+```
+
 #### Test result
 
 ## Quiz 4
