@@ -30,6 +30,19 @@ IntMax(3, 2, 1) → 3 <br>
 
 #### Python Code
 
+```.py
+def Makes10():
+    A = int(input("please enter an integer A: "))
+    B = int(input("please enter an integer B: "))
+    sum = A + B
+    if A == 10 or B == 10 or sum == 10:
+        print(True)
+    else:
+        print(False)
+
+Makes10()
+```
+
 #### Test result
 
 ## Quiz 3
