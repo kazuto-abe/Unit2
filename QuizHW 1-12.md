@@ -278,6 +278,8 @@ missingNumber(arrayx = [73,74,75,76,78,79])
 
 #### Test result
 
+<img width="678" alt="Screen Shot 2020-12-30 at 23 12 20" src="https://user-images.githubusercontent.com/60457723/103356846-239f0880-4af5-11eb-87fa-1bc222060528.png">
+
 
 ## Quiz 10
 Given an array of sorted integers, find the largest difference between neighbouring numbers.
