@@ -30,6 +30,8 @@ Makes10()
 
 #### Test result
 
+<img width="630" alt="Screen Shot 2020-12-30 at 15 55 29" src="https://user-images.githubusercontent.com/60457723/103335756-55927980-4ab9-11eb-9701-85160482a9f3.png">
+
 ## Quiz 2
 Given three int values, A, B, and C, output the largest.
 
