@@ -202,6 +202,7 @@ letters('hello') → 0 -> h <br>
 
 #### Pseudocode & Flowchart
 
+![07](https://user-images.githubusercontent.com/60457723/103354712-a45b0600-4aef-11eb-9f37-9ea852e2af03.jpg)
 
 #### Python Code
 
@@ -229,6 +230,7 @@ maxAbs([-100, 0, 3,-200]) → “max absolute is 200” <br>
 
 #### Pseudocode & Flowchart
 
+![08](https://user-images.githubusercontent.com/60457723/103354709-a3c26f80-4aef-11eb-9df6-4380d9617e2b.jpg)
 
 #### Python Code
 
@@ -248,6 +250,7 @@ missingNumber([73, 74, 75, 76, 78, 79]) → 77  <br>
 
 #### Pseudocode & Flowchart
 
+![09](https://user-images.githubusercontent.com/60457723/103354704-a329d900-4aef-11eb-9be6-2fe6b0080451.jpg)
 
 #### Python Code
 
@@ -266,8 +269,13 @@ BigNeighbour([1, 2, 3, 5, 6, 7]) → 2 (because 3 to 5) <br>
 BigNeighbour([0, 5, 6, 10]) → 5 (because 0 to 5) <br>
 BigNeighbour([73, 74, 174, 76, 78, 79]) → 100 <br>
 
-#### Pseudocode & Flowchart
+#### Pseudocode
 
+![010-1](https://user-images.githubusercontent.com/60457723/103354702-a1f8ac00-4aef-11eb-93ef-4f53b235304e.jpg)
+
+#### Flowchart
+
+![010-2](https://user-images.githubusercontent.com/60457723/103354699-a0c77f00-4aef-11eb-93ed-2f1a7c076aa4.jpg)
 
 #### Python Code
 
