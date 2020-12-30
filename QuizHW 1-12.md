@@ -191,12 +191,83 @@ MixStart()
 
 
 ## Quiz 7
+Given a string, output each letter with its index:
+
+Example: <br>
+letters('hello') → 0 -> h <br>
+						1 -> e <br>
+						2 -> l <br>
+						3 -> l <br>
+						4 -> 0 <br>
+
+#### Pseudocode & Flowchart
+
+
+#### Python Code
+
+```.py
+
+```
+
+#### Test result
 
 ## Quiz 8
+Given an array of integers, find the largest absolute value.  Tip: you can use the abs() function.
+ 
+Example: <br>
+maxAbs([-4, 5, 6, -7]) → “max absolute is 7”  <br>
+maxAbs([-1, 0, 1]) → “max absolute is 1” <br>
+maxAbs([-100, 0, 3,-200]) → “max absolute is 200” <br>
+
+#### Pseudocode & Flowchart
+
+
+#### Python Code
+
+```.py
+
+```
+
+#### Test result
+
 
 ## Quiz 9
+Given an array of sorted integers, find the missing number.
+ 
+Example: <br>
+missingNumber([1, 2, 3, 5, 6, 7]) → 4 missingNumber([4, 5, 6, 8, 9, 10]) → 7 <br>
+missingNumber([73, 74, 75, 76, 78, 79]) → 77  <br>
+
+#### Pseudocode & Flowchart
+
+
+#### Python Code
+
+```.py
+
+```
+
+#### Test result
+
 
 ## Quiz 10
+Given an array of sorted integers, find the largest difference between neighbouring numbers.
+ 
+Example: <br>
+BigNeighbour([1, 2, 3, 5, 6, 7]) → 2 (because 3 to 5) <br>
+BigNeighbour([0, 5, 6, 10]) → 5 (because 0 to 5) <br>
+BigNeighbour([73, 74, 174, 76, 78, 79]) → 100 <br>
+
+#### Pseudocode & Flowchart
+
+
+#### Python Code
+
+```.py
+
+```
+
+#### Test result
 
 ## Quiz 11
 
