@@ -316,6 +316,8 @@ BigNeighbour(arrayx = [73, 74, 174, 76, 78, 7])
 
 #### Test result
 
+<img width="680" alt="Screen Shot 2020-12-30 at 23 24 03" src="https://user-images.githubusercontent.com/60457723/103357276-1fbfb600-4af6-11eb-9f32-df5dceb1fc15.png">
+
 ## Quiz 11
 
 ## Quiz 12
