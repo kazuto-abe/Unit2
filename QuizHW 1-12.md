@@ -235,7 +235,16 @@ maxAbs([-100, 0, 3,-200]) → “max absolute is 200” <br>
 #### Python Code
 
 ```.py
-
+def maxAbs (arrayx):
+    max_value = 0
+    length = len(arrayx)
+    for i in range(length):
+        if abs(int(arrayx[i])) > max_value:
+            max_value = abs(int(arrayx[i]))
+    print("max absolute is ...  {}". format(max_value))
+maxAbs(arrayx = [-4,5,6,-7])
+maxAbs(arrayx = [-1, 0, 1])
+maxAbs(arrayx = [-100, 0, 3,-200])
 ```
 
 #### Test result
