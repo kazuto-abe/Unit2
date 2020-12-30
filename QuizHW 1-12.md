@@ -64,6 +64,8 @@ IntMax()
 
 #### Test result
 
+<img width="661" alt="Screen Shot 2020-12-30 at 16 13 14" src="https://user-images.githubusercontent.com/60457723/103335945-f5e89e00-4ab9-11eb-862a-0a7866ff6191.png">
+
 ## Quiz 3
 Given an integer N, print all the integers from 0 to N. 
 
