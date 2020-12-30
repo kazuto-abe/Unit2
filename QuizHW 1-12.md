@@ -94,6 +94,8 @@ rangeN()
 
 #### Test result
 
+<img width="656" alt="Screen Shot 2020-12-30 at 16 27 45" src="https://user-images.githubusercontent.com/60457723/103336576-f84bf780-4abb-11eb-8f97-04fe38689189.png">
+
 ## Quiz 4
 Given an integer N, show all its factors. 
 
