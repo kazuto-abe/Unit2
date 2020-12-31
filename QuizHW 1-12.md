@@ -328,6 +328,7 @@ SameFirstLast([1, 2, 1]) → TRUE <br>
 
 #### Pseudocode & Flowchart
 
+![0011](https://user-images.githubusercontent.com/60457723/103398399-f2b7e580-4b7f-11eb-825e-556e7b32b447.jpg)
 
 #### Python Code
 
@@ -361,6 +362,7 @@ wordlength({"police", "abacus"}) → 6
 
 #### Pseudocode & Flowchart
 
+![012](https://user-images.githubusercontent.com/60457723/103398404-f481a900-4b7f-11eb-858b-d51f3ca14d88.jpg)
 
 #### Python Code
 
