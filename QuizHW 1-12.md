@@ -319,7 +319,6 @@ BigNeighbour(arrayx = [73, 74, 174, 76, 78, 7])
 <img width="680" alt="Screen Shot 2020-12-30 at 23 24 03" src="https://user-images.githubusercontent.com/60457723/103357276-1fbfb600-4af6-11eb-9f32-df5dceb1fc15.png">
 
 ## Quiz 11
-
 Given an array of numbers, output TRUE if the array is length 1 or more, and the first element and the last element are equal. Otherwise output FALSE.
  
 Example: <br>
@@ -353,7 +352,12 @@ SameFirstLast(numarray = [1, 2, 1])
 <img width="682" alt="Screen Shot 2020-12-31 at 14 34 24" src="https://user-images.githubusercontent.com/60457723/103396225-50930000-4b75-11eb-8cc4-8b7cda92b576.png">
 
 ## Quiz 12
-
+Given an array of words, find the average word length.
+ 
+Example: <br>
+wordlength({"home", "car", "travel", "beach"}) → 4.5 <br>
+wordlength({"sun","sat","cut","can"}) → 3 <br>
+wordlength({"police", "abacus"}) → 6
 
 #### Pseudocode & Flowchart
 
@@ -361,7 +365,19 @@ SameFirstLast(numarray = [1, 2, 1])
 #### Python Code
 
 ```.py
+def wordlength(wordarray):
+    length = len(wordarray)
+    sum_characters = 0
+    for i in range (length):
+        sum_characters += len(wordarray[i])
+    
+    average = sum_characters / length
+    print("The average word length is ... {}".format(average))
+        
 
+wordlength(wordarray = ["home", "car", "travel", "beach"])
+wordlength(wordarray = ["sun","sat","cut","can"])
+wordlength(wordarray = ["police", "abacus"])
 ```
 
 #### Test result
