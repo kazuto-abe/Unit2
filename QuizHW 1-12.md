@@ -350,8 +350,7 @@ SameFirstLast(numarray = [1, 2, 1])
 
 #### Test result
 
-
-
+<img width="682" alt="Screen Shot 2020-12-31 at 14 34 24" src="https://user-images.githubusercontent.com/60457723/103396225-50930000-4b75-11eb-8cc4-8b7cda92b576.png">
 
 ## Quiz 12
 
