@@ -382,3 +382,4 @@ wordlength(wordarray = ["police", "abacus"])
 
 #### Test result
 
+<img width="680" alt="Screen Shot 2020-12-31 at 15 06 08" src="https://user-images.githubusercontent.com/60457723/103397033-be412b00-4b79-11eb-8081-fc627da1aa87.png">
