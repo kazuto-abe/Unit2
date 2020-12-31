@@ -320,4 +320,50 @@ BigNeighbour(arrayx = [73, 74, 174, 76, 78, 7])
 
 ## Quiz 11
 
+Given an array of numbers, output TRUE if the array is length 1 or more, and the first element and the last element are equal. Otherwise output FALSE.
+ 
+Example: <br>
+SameFirstLast([1, 2, 3]) → FALSE <br>
+SameFirstLast([1, 2, 3, 1]) → TRUE <br>
+SameFirstLast([1, 2, 1]) → TRUE <br>
+
+#### Pseudocode & Flowchart
+
+
+#### Python Code
+
+```.py
+def SameFirstLast(numarray):
+    length = len(numarray)
+    first = numarray[0]
+    last = numarray[length - 1]
+    if length > 1 and first == last :
+        print("First element and last element are equal → True")
+    else:
+        print("First element and last element are NOT equal → False")
+        
+
+SameFirstLast(numarray = [1, 2, 3])
+SameFirstLast(numarray = [1, 2, 3, 1])
+SameFirstLast(numarray = [1, 2, 1])
+```
+
+#### Test result
+
+
+
+
 ## Quiz 12
+
+
+#### Pseudocode & Flowchart
+
+
+#### Python Code
+
+```.py
+
+```
+
+#### Test result
+
