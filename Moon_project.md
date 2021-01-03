@@ -46,14 +46,18 @@ Output: Morse code, the detailed system of dots and dashes used to represent the
 
 
 
-### Tinker Cad
+### Prototype on TinkerCad
 <img width="1217" alt="Screen Shot 2020-12-18 at 16 44 50" src="https://user-images.githubusercontent.com/60457723/102588375-b1234580-4150-11eb-8473-04623dab7774.png">
 
+The screenshot above shows each components and the program
+TinkerCad, a free online service for creating a digital prototypes of components, is commonly used for rapid prototyping before buiding a physical circuit. Due to well-visualized platform for all developers and commonly used all over the world, our initial online prototype is done by tinkerCad. Eventhough this is just a beggining of the project, prototyping, the most important phase, is indispensable in order to instantly modify the program. Once online circuit is built and working properly, we manually started buidling a physical circuit using a digital arduino as a reference - connects all wires, installs all components on a breadboad, copies and upload the code on Arduino, andd make sure that LCDS lights up clearly (because LED is relatively fragile).
 
 ### Flow chart
 
 
 ## Criteria C: Development
+
+
 
 ```.c++
 // include the library code:
