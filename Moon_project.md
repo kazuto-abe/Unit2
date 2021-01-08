@@ -269,7 +269,8 @@ void En2Morse(){
 
 ## Criteria D: Functionality
 
-## User instruction table of communication system
+
+### User instruction table of communication system
 | Command                    | Instruction                                                                                                                                 |
 |----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
 | Choose characters in order | Keep pushing the buttonB (right one)                                                                                                        |
