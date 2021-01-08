@@ -24,6 +24,7 @@ S-Scheduling- Can the project be done in time? ... We are given 3 weeks to compl
 
 ## Rough sketches of the initial design draft
 
+![compsci_ia_sketch](https://user-images.githubusercontent.com/60457723/104018955-060d2580-51fe-11eb-8dcb-501ddcd9442e.jpg)
 
 ### Sucess Criteria
 - The product allows the user to enter messages in English and send messages in Morse Code.
