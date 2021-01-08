@@ -22,6 +22,8 @@ L-Legal- Is the project legal? ... The project is completely legal as the 1947 J
 O-Operational- How will the current operations support the change? ... The project will operate on computers and Arduino. The process does not have any errors and is perfectly operational.<br>
 S-Scheduling- Can the project be done in time? ... We are given 3 weeks to complete this project and the tasks have been regularly distributed to assure that it is completed by Friday, December 18th, 2020.
 
+## Rough sketches of the initial design draft
+
 
 ### Sucess Criteria
 - The product allows the user to enter messages in English and send messages in Morse Code.
@@ -50,7 +52,7 @@ Output: Morse code, the detailed system of dots and dashes used to represent the
 <img width="1217" alt="Screen Shot 2020-12-18 at 16 44 50" src="https://user-images.githubusercontent.com/60457723/102588375-b1234580-4150-11eb-8473-04623dab7774.png">
 
 The screenshot above shows how the entire program and all installed componetns work by using tinkercad.
-TinkerCad, a free online simulator for creating a digital prototypes of components, is commonly used for rapid prototyping before buiding a physical circuit. Due to well-visualized platform for all developers and commonly used all over the world, our initial online prototype is done by tinkerCad. Eventhough this is just a beggining of the project, prototyping, the most important phase, is indispensable in order to instantly modify the program. Once online circuit is built and working properly, we manually started buidling a physical circuit using a digital arduino as a reference - connects all wires, installs all components on a breadboad, copies and upload the code on Arduino, andd make sure that LCDS lights up clearly (because LED is relatively fragile).
+TinkerCad, a free online simulator for creating a digital prototypes of components, is commonly used for rapid prototyping before buiding a physical circuit. Due to well-visualized platform for all developers and commonly used all over the world, our initial online prototype is done by tinkerCad. Eventhough this is just a beggining of the project, prototyping, the most important phase, is indispensable in order to instantly modify the program. Once online circuit is built and working properly, we manually started buidling a physical circuit using a digital arduino as a reference - connects all wires, installs all components on a breadboad, copies and upload the code on Arduino, and make sure that LCDS lights up clearly (because LED is relatively fragile).
 
 ### Flow chart
 
@@ -266,6 +268,15 @@ void En2Morse(){
 ```
 
 ## Criteria D: Functionality
+
+## User instruction table of communication system
+| Command                    | Instruction                                                                                                                                 |
+|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| Choose characters in order | Keep pushing the buttonB (right one)                                                                                                        |
+| Select a character         | Push the button(left one) once you chose a character.                                                                                       |
+| Delete                     | Push the buttonB twice then press the buttonA afterwards.                                                                                   |
+| Send an entire message     | Press the buttonA once you've done all procedure above.<br>You can instantly see the morse code through a light bulb.(English - Morse code) |
+
 
 ![moon project](https://user-images.githubusercontent.com/60457723/102588441-cbf5ba00-4150-11eb-8bf1-18653708faee.jpg)
 
