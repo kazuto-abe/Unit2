@@ -27,10 +27,12 @@ S-Scheduling- Can the project be done in time? ... We are given 3 weeks to compl
 ![compsci_ia_sketch](https://user-images.githubusercontent.com/60457723/104018955-060d2580-51fe-11eb-8dcb-501ddcd9442e.jpg)
 
 ### Sucess Criteria
+
 - The product allows the user to enter messages in English and send messages in Morse Code.
-- The product contains all the alphabet and numbers
+- The product contains all the alphabet
 - The product contains special commands like send and delete
-- The display uses maximum 1 LED, 1 LCD and 2 buttons.
+- The product uses maximum 1 LED, 1 LCD and 2 buttons.
+- The product must provide the table instructions for the users.
 
 ## Criteria B: Design
 
@@ -284,3 +286,12 @@ void En2Morse(){
 
 ## Criteria E: Evaluation
 
+### Alpha testing (following success criteria)
+
+|                                               Criteria:                                              |                                                                         Expected Outcome                                                                        | Criteria met? |
+|:----------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------:|
+| Criteria1: The product allows the user to enter messages in English and send messages in Morse Code. |                   All users are able to put the short message in English using two buttons, and LED lights up once morse code is transmitted.                   |      yes      |
+|                           Criteria2: The product contains all the alphabet                           |                                           All users are able to manually input all alphabet on the LCD works properly.                                          |      yes      |
+|                 Criteria3: The product contains special commands like send and delete                |                       Special commands (send, delete) are clearly visualized on the LCD display, plus uses are able to use those commands.                      |      yes      |
+|                    Criteria4: The product uses maximum 1 LED, 1 LCD and 2 buttons.                   |             All users are able to see that our communication system contains at least two buttons, one LCD, and one LED(light bulb) on a breadboard.            |      yes      |
+|               Criteria5: The product must provide the table instructions for the users.              | We do provide a instruction table that shows how our product works with different button combinations so that all possible users are able to grasp the concept. |      yes      |
