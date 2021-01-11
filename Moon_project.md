@@ -41,7 +41,9 @@ S-Scheduling- Can the project be done in time? We are given 3 weeks to complete 
 
 ### System Diagram
 
-![Arduino_moon_system diagram  001](https://user-images.githubusercontent.com/60457723/103166503-f25cd900-4865-11eb-812c-b29b08023c25.jpeg)
+![Arduino_moon_system diagram1  001](https://user-images.githubusercontent.com/60457723/104180942-503a1500-5451-11eb-8092-47d93b71b360.jpeg)
+
+###### Figure 2: A diagram of the communication system showing the main components.
 
 Input: Users are able to enter the alphabet using two buttons (A and B) installed on the breadboard, and the LCD displays whats input afterwards.
 One is to change the characters, one is to select the options (it includes "send" and "delete")
