@@ -34,11 +34,10 @@ S-Scheduling- Can the project be done in time? We are given 3 weeks to complete 
 ### Rough sketches of the initial design draft
 
 ![salma_design draft](https://user-images.githubusercontent.com/60457723/104160837-22df6e00-5435-11eb-9199-3eafefb54075.jpg)
-###### Figure 1: The diagram shows a rough sketch of the Earth →　Moon communication system, and indicating how the relationship between the two buttons (A, B) and LED/LCD.
+
+###### Figure 1: A diagram shows a rough sketch of the Earth →　Moon communication system, and indicating how the relationship between the two buttons (A, B) and LED/LCD.
 
 ## Criteria B: Design
-
-
 
 ### System Diagram
 
@@ -51,9 +50,12 @@ Output: Morse code, the detailed system of dots and dashes used to represent the
 
 ![alphabet](https://user-images.githubusercontent.com/60457723/104160825-1c50f680-5435-11eb-9c21-227057ced47a.jpg)
 
+###### Figure 3: A reference shows what the morse code is.
 
 ### Prototype on TinkerCad
 <img width="1217" alt="Screen Shot 2020-12-18 at 16 44 50" src="https://user-images.githubusercontent.com/60457723/102588375-b1234580-4150-11eb-8473-04623dab7774.png">
+
+###### Figure 4: A screenshot represents our online prototype on TinkerCad
 
 The screenshot above shows how the entire program and all installed componetns work by using tinkercad.
 TinkerCad, a free online simulator for creating a digital prototypes of components, is commonly used for rapid prototyping before buiding a physical circuit. Due to well-visualized platform for all developers and commonly used all over the world, our initial online prototype is done by tinkerCad. Eventhough this is just a beggining of the project, prototyping, the most important phase, is indispensable in order to instantly modify the program. Once online circuit is built and working properly, we manually started buidling a physical circuit using a digital arduino as a reference - connects all wires, installs all components on a breadboad, copies and upload the code on Arduino, and make sure that LCDS lights up clearly (because LED is relatively fragile).
@@ -286,8 +288,11 @@ void En2Morse(){
 
 ![salma_usage guide](https://user-images.githubusercontent.com/60457723/104160831-1e1aba00-5435-11eb-8911-2b604613c574.jpg)
 
+###### Figure 5: A diagram provides a usage for the communication system in steps for all possible users.
 
 ![moon project](https://user-images.githubusercontent.com/60457723/102588441-cbf5ba00-4150-11eb-8bf1-18653708faee.jpg)
+
+###### Figure 6: A photo of the project assembled.
 
 ## Criteria E: Evaluation
 
