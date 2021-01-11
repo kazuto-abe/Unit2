@@ -31,9 +31,10 @@ S-Scheduling- Can the project be done in time? We are given 3 weeks to complete 
 - The product uses maximum 1 LED, 1 LCD and 2 buttons.
 - The product must provide the table instructions for the users.
 
-## Rough sketches of the initial design draft
+### Rough sketches of the initial design draft
 
-![compsci_ia_sketch](https://user-images.githubusercontent.com/60457723/104018955-060d2580-51fe-11eb-8dcb-501ddcd9442e.jpg)
+![salma_design draft](https://user-images.githubusercontent.com/60457723/104160837-22df6e00-5435-11eb-9199-3eafefb54075.jpg)
+###### Figure 1: The diagram shows a rough sketch of the Earth →　Moon communication system, and indicating how the relationship between the two buttons (A, B) and LED/LCD.
 
 ## Criteria B: Design
 
@@ -48,8 +49,7 @@ One is to change the characters, one is to select the options (it includes "send
 
 Output: Morse code, the detailed system of dots and dashes used to represent the alphabets, is transferred to the LED so that we can instantly know what the messages are. 
 
-![international morse code](https://user-images.githubusercontent.com/60457723/103167080-677edd00-486b-11eb-8745-b39f15ff4b5c.png)
-
+![alphabet](https://user-images.githubusercontent.com/60457723/104160825-1c50f680-5435-11eb-9c21-227057ced47a.jpg)
 
 
 ### Prototype on TinkerCad
@@ -274,13 +274,17 @@ void En2Morse(){
 ## Criteria D: Functionality
 
 
-### User instruction table of communication system
+### User instruction table of communication system 
 | Command                    | Instruction                                                                                                                                 |
 |----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
 | Choose characters in order | Keep pushing the buttonB (right one)                                                                                                        |
 | Select a character         | Push the button(left one) once you chose a character.                                                                                       |
 | Delete                     | Push the buttonB twice then press the buttonA afterwards.                                                                                   |
 | Send an entire message     | Press the buttonA once you've done all procedure above.<br>You can instantly see the morse code through a light bulb.(English - Morse code) |
+
+### Usage guide of the communication system.
+
+![salma_usage guide](https://user-images.githubusercontent.com/60457723/104160831-1e1aba00-5435-11eb-8911-2b604613c574.jpg)
 
 
 ![moon project](https://user-images.githubusercontent.com/60457723/102588441-cbf5ba00-4150-11eb-8bf1-18653708faee.jpg)
