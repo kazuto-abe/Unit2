@@ -11,20 +11,17 @@ This project is a program to communicate between the earth and the moon in signa
 
 ### Justification of the solution
 
-We will create a program dsiplayed on 1 LED and 1 LCD which gets inputs by pressing 2 buttons. As for hardware, we are using 1 LED, 1 LCD, 2 buttons and an Arduino. The product enables us to input messages in English using the right button to cycle through the English alphabet and 2 commands "SEND" and "DELETE". The left button enables us to select letters or commands. The message, then, is converted into Morse Code which is displayed through an LED. Moreover, we will be using C++ as a software language since it is the primary coding language for the Arduino and we have had practise sessions during class in that language. In fact in 2017, C++ ranked 4th among 24 other programming languages in September [1] due to its fast processing and several built-in functions. The program will be first run on the simulator Tinkercad to avoid damaging the physical components when testing the solution.
+We will create a program dsiplayed on 1 LED and 1 LCD which gets inputs by pressing 2 buttons. As for hardware, we are using 1 LED, 1 LCD, 2 buttons and an Arduino. The product enables us to input messages in English using the right button to cycle through the English alphabet and 2 commands "SEND" and "DELETE". The left button enables us to select letters or commands. The message, then, is converted into Morse Code which is displayed through an LED. Moreover, we will be using C++ as a software language since it is the primary coding language for the Arduino and we have had practise sessions during class in that language. In fact in 2017, C++ ranked 4th among 24 other programming languages in September [1] due to its fast processing and several built-in functions. The program will be first run on the simulator Tinkercad to avoid damaging the physical components when testing the solution and thus reduce the costs of this project [2].
 
 [1] Ramasubramanian, Sowmya. “C++ Is Now the Fastest-Growing Programming Language, Report Says.” The Hindu, The Hindu, 11 Sept. 2020, www.thehindu.com/sci-tech/technology/c-is-now-the-fastest-growing-programming-language/article32580426.ece.
+[2] TinkerCAD Review: Pricing, Pros, Cons & Features. (2020, May 14). Retrieved January 10, 2021, from https://comparecamp.com/tinkercad-review-pricing-pros-cons-features/#:~:text=The%20main%20benefits%20of%20TinkerCAD,%2C%20and%20user%2Dfriendly%20interface.&amp;text=TinkerCAD%20allows%20businesses%20to%20produce,to%20pay%20for%20large%20warehouses.
 
-T.E.L.O.S. Study:<br>
-T-Technical-Is the project technically possible? ... We dispose of a computer, Arduino, TinkerCat simulator, Arduino IDE for C++ code and circuits components. All technical necessities for this project are satisfied.<br>
-E-Economic- Can the project be afforded? Will it increase profit? ... This project is developed for free by UWC ISAK Japan students. Thanks to the funding provided to our school, we can afford all of the components necessary for the project. We also have a budget of 1 trillion moons according to our client.<br>
-L-Legal- Is the project legal? ... The project is completely legal as the 1947 Japanese constitution does not criminalize small digital projects like ours.<br>
-O-Operational- How will the current operations support the change? ... The project will operate on computers and Arduino. The process does not have any errors and is perfectly operational.<br>
-S-Scheduling- Can the project be done in time? ... We are given 3 weeks to complete this project and the tasks have been regularly distributed to assure that it is completed by Friday, December 18th, 2020.
-
-## Rough sketches of the initial design draft
-
-![compsci_ia_sketch](https://user-images.githubusercontent.com/60457723/104018955-060d2580-51fe-11eb-8dcb-501ddcd9442e.jpg)
+T.E.L.O.S. Study:
+T-Technical-Is the project technically possible? We dispose of a computer, Arduino, TinkerCat simulator, Arduino IDE for C++ code and circuits components. All technical necessities for this project are satisfied.
+E-Economic- Can the project be afforded? Will it increase profit? This project is developed for free by UWC ISAK Japan students. Thanks to the funding provided to our school, we can afford all of the components necessary for the project. We also have a budget of 1 trillion moons according to our client.
+L-Legal- Is the project legal? The project is completely legal as the 1947 Japanese constitution does not criminalize small digital projects like ours.
+O-Operational- How will the current operations support the change? The project will operate on computers and Arduino. The process does not have any errors and is perfectly operational.
+S-Scheduling- Can the project be done in time? We are given 3 weeks to complete this project and the tasks have been regularly distributed to assure that it is completed by Friday, December 18th, 2020.
 
 ### Sucess Criteria
 
@@ -33,6 +30,10 @@ S-Scheduling- Can the project be done in time? ... We are given 3 weeks to compl
 - The product contains special commands like send and delete
 - The product uses maximum 1 LED, 1 LCD and 2 buttons.
 - The product must provide the table instructions for the users.
+
+## Rough sketches of the initial design draft
+
+![compsci_ia_sketch](https://user-images.githubusercontent.com/60457723/104018955-060d2580-51fe-11eb-8dcb-501ddcd9442e.jpg)
 
 ## Criteria B: Design
 
