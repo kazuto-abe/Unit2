@@ -299,7 +299,7 @@ This is the usage guide for the product detailed in steps and indicating the fun
 
 ###### Figure 6: A photo of the project assembled.
 
-![](https://user-images.githubusercontent.com/60457723/104600556-7e6f5d00-56bc-11eb-9e45-6fbf02dd833a.mp4)
+https://user-images.githubusercontent.com/60457723/104600556-7e6f5d00-56bc-11eb-9e45-6fbf02dd833a.mp4
 
 
 ## Criteria E: Evaluation
