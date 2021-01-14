@@ -16,7 +16,7 @@ We will create a program dsiplayed on 1 LED and 1 LCD which gets inputs by press
 [1] Ramasubramanian, Sowmya. “C++ Is Now the Fastest-Growing Programming Language, Report Says.” The Hindu, The Hindu, 11 Sept. 2020, www.thehindu.com/sci-tech/technology/c-is-now-the-fastest-growing-programming-language/article32580426.ece.
 [2] TinkerCAD Review: Pricing, Pros, Cons & Features. (2020, May 14). Retrieved January 10, 2021, from https://comparecamp.com/tinkercad-review-pricing-pros-cons-features/#:~:text=The%20main%20benefits%20of%20TinkerCAD,%2C%20and%20user%2Dfriendly%20interface.&amp;text=TinkerCAD%20allows%20businesses%20to%20produce,to%20pay%20for%20large%20warehouses.
 
-T.E.L.O.S. Study:
+T.E.L.O.S. Study: <br>
 T-Technical-Is the project technically possible? We dispose of a computer, Arduino, TinkerCat simulator, Arduino IDE for C++ code and circuits components. All technical necessities for this project are satisfied.<br>
 E-Economic- Can the project be afforded? Will it increase profit? This project is developed for free by UWC ISAK Japan students. Thanks to the funding provided to our school, we can afford all of the components necessary for the project. We also have a budget of 1 trillion moons according to our client.<br>
 L-Legal- Is the project legal? The project is completely legal as the 1947 Japanese constitution does not criminalize small digital projects like ours.<br>
