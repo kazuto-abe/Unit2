@@ -1,3 +1,5 @@
+# Unit2 - Communication System (Kazuto Abe)
+
 ## Criteria A: Planning
 
 ### Context of the problem
@@ -288,6 +290,7 @@ void En2Morse(){
 
 ### Usage guide of the communication system.
 
+This is the usage guide for the product detailed in steps and indicating the functionality of each component and the relationship between them in order to successfully type a message in English and send it in Morse Code through LED signals.
 ![salma_usage guide](https://user-images.githubusercontent.com/60457723/104160831-1e1aba00-5435-11eb-8911-2b604613c574.jpg)
 
 ###### Figure 5: A diagram provides a usage for the communication system in steps for all possible users.
