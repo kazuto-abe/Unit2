@@ -299,7 +299,11 @@ This is the usage guide for the product detailed in steps and indicating the fun
 
 ###### Figure 6: A photo of the project assembled.
 
+
+
 https://user-images.githubusercontent.com/60457723/104600556-7e6f5d00-56bc-11eb-9e45-6fbf02dd833a.mp4
+
+#### A video above shows the customer entering the text "MBA" in English using two buttons (A and B). Once the customer pressed the "send" command, the whole messaga is showing signals and represented it as Moose Code on the green LED. 
 
 
 ## Criteria E: Evaluation
