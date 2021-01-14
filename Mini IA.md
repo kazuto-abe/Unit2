@@ -1,4 +1,4 @@
-# Unit2 - Kazuto Abe
+# Unit2 - LED counter (Kazuto Abe)
 
 ## Criteria A: Planning
 #### Context of the problem
